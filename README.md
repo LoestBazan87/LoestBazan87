@@ -1,4 +1,4 @@
-![“I’m in the world of cybersecurity, exploring ethical hacking and digital protection  always learning and improving ” (1)](https://github.com/user-attachments/assets/31b243e9-baff-4372-874d-e1b888fcd466)
+![“I’m in the world of cybersecurity, exploring ethical hacking and digital protection  always learning and improving ”](https://github.com/user-attachments/assets/ece43069-45d1-4167-9083-6d56647c1a17)
 Hi there 👋, My Name is Loest!!!
 
 <!--
