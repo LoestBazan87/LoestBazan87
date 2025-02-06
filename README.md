@@ -1,4 +1,4 @@
-![fondo1](https://github.com/user-attachments/assets/16033d1b-ef29-455b-991c-f066fd7f5487)
+![“I’m in the world of cybersecurity, exploring ethical hacking and digital protection  always learning and improving ”](https://github.com/user-attachments/assets/ddbafa23-496f-457e-971f-ee2cc7eec64b)
 Hi there 👋, My Name is Loest!!!
 
 <!--
