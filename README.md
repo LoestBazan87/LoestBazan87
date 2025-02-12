@@ -9,9 +9,9 @@
 <p align="center">
 
 - **Languages**:
-<h3 align="center" >
+<p align="center">
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-</h3>
+</p>
 
 - **Operating Systems**:
  
