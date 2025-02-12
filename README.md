@@ -10,6 +10,14 @@
 ✅ Proficient in tools such as **Burp Suite, Nmap, Metasploit, Wireshark, and SQLmap**  
 ✅ Test automation using **Python and Bash**  
 ✅ Security in **Active Directory, privilege escalation, and controlled exploitation**
+
+📌 **Hands-on Experience:**  
+🔹 Solving challenges on **TryHackMe and Hack The Box**  
+🔹 Simulating attacks in lab environments  
+🔹 Creating scripts to automate security analysis  
+🔹 Documenting and reporting findings with mitigation recommendations
+
+🎯 **Seeking an opportunity to apply my knowledge in offensive security and contribute to the protection of digital infrastructures.**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2><picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> </picture>Skills</h2>
 
