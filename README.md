@@ -45,7 +45,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Try Hack Me CTF's</h3>
+<h3 align="center">Try Hac kMe CTF's</h3>
 <div align="center">
 <a href="https://github.com/LoestBazan87" target="_blank"><img src="https://github.com/user-attachments/assets/e99b34c0-8138-49c8-81f7-1aa32ce61e97" width="400" alt="CTF's"></a>
 <p></p>
@@ -54,18 +54,10 @@
 </td>       
 
 <td width="50%">
-<h3 align="center">Curso Kotlin Multiplatform</h3>
+<h3 align="center">Hack My Vm CTF's</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
-<p>
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
-</a>
-</p>
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+<a href="https://github.com/LoestBazan87" target="_blank"><img src="https://github.com/user-attachments/assets/794dd53b-216c-4545-be4c-dd4e35ee44d1" width="400" alt="CTF's"></a>
+<p></p>
 </div>
                                                                                       
 </td>  
