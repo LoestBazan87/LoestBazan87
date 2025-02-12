@@ -2,7 +2,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
 
-💻 Passionate about **offensive cybersecurity**, with skills in **penetration testing, vulnerability analysis, and network and web application security**.With hands-on experience in **CTFs, labs, and simulated environments**.
+💻 Passionate about **offensive cybersecurity**, with skills in **penetration testing, vulnerability analysis, and network and web application security**.
 
 🛠 **Technical Skills:**  
 ✅ Penetration testing in virtualized environments (Kali Linux, Parrot OS)  
@@ -12,8 +12,6 @@
 
 📌 **Hands-on Experience:**  
 🔹 Solving challenges on **TryHackMe and Hack The Box**  
-🔹 Simulating attacks in lab environments  
-🔹 Creating scripts to automate security analysis  
 🔹 Documenting and reporting findings with mitigation recommendations
 
 🎯 **Seeking an opportunity to apply my knowledge in offensive security and contribute to the protection of digital infrastructures.**
