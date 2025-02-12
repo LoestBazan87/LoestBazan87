@@ -3,17 +3,14 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
 
 💻 Passionate about **offensive cybersecurity**, with skills in **penetration testing, vulnerability analysis, and network and web application security**.
-
 🛠 **Technical Skills:**  
 ✅ Penetration testing in virtualized environments (Kali Linux, Parrot OS)  
 ✅ Identification and exploitation of vulnerabilities (OWASP, MITRE ATT&CK, PTES)  
 ✅ Proficient in tools such as **Burp Suite, Nmap, Metasploit, Wireshark, and SQLmap**  
 ✅ Security in **Active Directory, privilege escalation, and controlled exploitation**
-
 📌 **Hands-on Experience:**  
 🔹 Solving challenges on **TryHackMe and Hack The Box**  
 🔹 Documenting and reporting findings with mitigation recommendations
-
 🎯 **Seeking an opportunity to apply my knowledge in offensive security and contribute to the protection of digital infrastructures.**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 ## Writeups
