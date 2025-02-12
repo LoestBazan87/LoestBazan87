@@ -18,21 +18,13 @@
 
 🎯 **Seeking an opportunity to apply my knowledge in offensive security and contribute to the protection of digital infrastructures.**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-## Proyectos *bombitas*
+## Writeups
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">DockerLabs CTF's</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
-<p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
-</p>
+<a href="https://github.com/LoestBazan87/Writeups/tree/main/DockerLabs" target="_blank"><img src="https://github.com/user-attachments/assets/58ff16f5-b853-4bda-8f3f-fa34f13d7b4c" width="400" alt="CTF's"></a>
 <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
 </div>
                                                                                       
