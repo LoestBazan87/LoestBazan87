@@ -1,5 +1,5 @@
 <h1 align="center">Hello Guys! I'm Loest! <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></h1>
-
+<picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 ![“I’m in the world of cybersecurity, exploring ethical hacking and digital protection  always learning and improving ”](https://github.com/user-attachments/assets/ece43069-45d1-4167-9083-6d56647c1a17)
 
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
