@@ -8,7 +8,6 @@
 ✅ Penetration testing in virtualized environments (Kali Linux, Parrot OS)  
 ✅ Identification and exploitation of vulnerabilities (OWASP, MITRE ATT&CK, PTES)  
 ✅ Proficient in tools such as **Burp Suite, Nmap, Metasploit, Wireshark, and SQLmap**  
-✅ Test automation using **Python and Bash**  
 ✅ Security in **Active Directory, privilege escalation, and controlled exploitation**
 
 📌 **Hands-on Experience:**  
