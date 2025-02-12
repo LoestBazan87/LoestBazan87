@@ -3,6 +3,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 💻 Passionate about **offensive cybersecurity**, with skills in **penetration testing, vulnerability analysis, and network and web application security**.With hands-on experience in **CTFs, labs, and simulated environments**.
+
 🛠 **Technical Skills:**  
 ✅ Penetration testing in virtualized environments (Kali Linux, Parrot OS)  
 ✅ Identification and exploitation of vulnerabilities (OWASP, MITRE ATT&CK, PTES)  
