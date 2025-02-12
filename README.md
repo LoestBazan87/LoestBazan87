@@ -25,7 +25,7 @@
 <h3 align="center">DockerLabs CTF's</h3>
 <div align="center">
 <a href="https://github.com/LoestBazan87/Writeups/tree/main/DockerLabs" target="_blank"><img src="https://github.com/user-attachments/assets/58ff16f5-b853-4bda-8f3f-fa34f13d7b4c" width="400" alt="CTF's"></a>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p></p>
 </div>
                                                                                       
 </td>
