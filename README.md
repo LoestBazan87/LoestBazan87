@@ -61,7 +61,7 @@
 <td width="50%">
 <h3 align="center">VulNyx CTF's</h3>
 <div align="center">
-<a href="https://github.com/LoestBazan87/Writeups/tree/main/DockerLabs" target="_blank"><img src="https://github.com/user-attachments/assets/6a82fcc5-8c7d-46b0-8808-56bd47751126" width="400" alt="CTF's"></a>
+<a href="https://github.com/LoestBazan87/Writeups/tree/main/VulNyx" target="_blank"><img src="https://github.com/user-attachments/assets/6a82fcc5-8c7d-46b0-8808-56bd47751126" width="400" alt="CTF's"></a>
 <p></p>
 </div>
                                                                                      
