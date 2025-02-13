@@ -5,7 +5,6 @@
 💻 Passionate about **offensive cybersecurity**, with skills in **penetration testing, vulnerability analysis, and network and web application security**.
 🛠 **Technical Skills:**  
 ✅ Penetration testing in virtualized environments (Kali Linux, Parrot OS)  
-✅ Identification and exploitation of vulnerabilities (OWASP, MITRE ATT&CK, PTES)  
 ✅ Proficient in tools such as **Burp Suite, Nmap, Metasploit, Wireshark, and SQLmap**  
 ✅ Security in **Active Directory, privilege escalation, and controlled exploitation**
 📌 **Hands-on Experience:**  
@@ -65,12 +64,6 @@
 <h2><picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> </picture>Skills</h2>
 
 <p align="center">
-
-- **Languages**:
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"></a>
-</p>
 
 - **Operating Systems**:
  
