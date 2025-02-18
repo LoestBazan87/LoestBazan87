@@ -66,7 +66,16 @@
 </div>
                                                                                      
 </td>
+</td>       
 
+<td width="50%">
+<h3 align="center">The Hackers Labs CTF's</h3>
+<div align="center">
+<a href="https://github.com/LoestBazan87" target="_blank"><img src="https://github.com/user-attachments/assets/8b4b5d8d-a8c7-4c5e-8066-652f94858927" width="400" alt="CTF's"></a>
+<p></p>
+</div>
+                                                                                      
+</td>
 </table>                                                                                 
 </div>
 <br>
