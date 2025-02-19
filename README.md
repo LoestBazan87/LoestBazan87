@@ -18,7 +18,7 @@
 <td width="50%">
 <h3 align="center">DockerLabs CTF's</h3>
 <div align="center">
-<a href="https://github.com/LoestBazan87/Writeups/tree/main/DockerLabs" target="_blank"><img src="https://github.com/user-attachments/assets/58ff16f5-b853-4bda-8f3f-fa34f13d7b4c" width="400" alt="CTF's"></a>
+<a href="https://github.com/LoestBazan87/Writeups/tree/main/DockerLabs" target="_blank"><img src="https://github.com/user-attachments/assets/58ff16f5-b853-4bda-8f3f-fa34f13d7b4c" width="300" alt="CTF's"></a>
 <p></p>
 </div>
                                                                                       
@@ -28,7 +28,7 @@
                <br>
 <h3 align="center">Hack The Box CTF's</h3>
 <div align="center">                                       
-<a href="https://github.com/LoestBazan87" target="_blank"><img src="https://github.com/user-attachments/assets/518c89c2-8005-4935-bd05-609605d2efe6" width="400" alt="CTF's"></a>
+<a href="https://github.com/LoestBazan87" target="_blank"><img src="https://github.com/user-attachments/assets/518c89c2-8005-4935-bd05-609605d2efe6" width="300" alt="CTF's"></a>
 <br>
 </p></p>
 </div>                                                             
@@ -41,7 +41,7 @@
 <td width="50%">
 <h3 align="center">Try Hac kMe CTF's</h3>
 <div align="center">
-<a href="https://github.com/LoestBazan87/Writeups/tree/main/TryHackMe" target="_blank"><img src="https://github.com/user-attachments/assets/e99b34c0-8138-49c8-81f7-1aa32ce61e97" width="400" alt="CTF's"></a>
+<a href="https://github.com/LoestBazan87/Writeups/tree/main/TryHackMe" target="_blank"><img src="https://github.com/user-attachments/assets/e99b34c0-8138-49c8-81f7-1aa32ce61e97" width="300" alt="CTF's"></a>
 <p></p>
 </div>
                                                                                       
@@ -50,7 +50,7 @@
 <td width="50%">
 <h3 align="center">Hack My Vm CTF's</h3>
 <div align="center">
-<a href="https://github.com/LoestBazan87" target="_blank"><img src="https://github.com/user-attachments/assets/794dd53b-216c-4545-be4c-dd4e35ee44d1" width="400" alt="CTF's"></a>
+<a href="https://github.com/LoestBazan87" target="_blank"><img src="https://github.com/user-attachments/assets/794dd53b-216c-4545-be4c-dd4e35ee44d1" width="300" alt="CTF's"></a>
 <p></p>
 </div>
                                                                                       
