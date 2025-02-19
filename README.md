@@ -41,7 +41,7 @@
 <td width="50%">
 <h3 align="center">Try Hac kMe CTF's</h3>
 <div align="center">
-<a href="https://github.com/LoestBazan87/Writeups/tree/main/TryHackMe" target="_blank"><img src="https://github.com/user-attachments/assets/e99b34c0-8138-49c8-81f7-1aa32ce61e97" width="300" alt="CTF's"></a>
+<a href="https://github.com/LoestBazan87/Writeups/tree/main/TryHackMe" target="_blank"><img src="https://github.com/user-attachments/assets/e99b34c0-8138-49c8-81f7-1aa32ce61e97" width="250" alt="CTF's"></a>
 <p></p>
 </div>
                                                                                       
