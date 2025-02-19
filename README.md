@@ -48,9 +48,9 @@
 </td>       
 
 <td width="50%">
-<h3 align="center">Hack My Vm CTF's</h3>
+<h3 align="center">VulnHub CTF's</h3>
 <div align="center">
-<a href="https://github.com/LoestBazan87" target="_blank"><img src="https://github.com/user-attachments/assets/794dd53b-216c-4545-be4c-dd4e35ee44d1" width="300" alt="CTF's"></a>
+<a href="https://github.com/LoestBazan87" target="_blank"><img src="https://github.com/user-attachments/assets/f436f859-e322-4111-aca6-418d5d6624bb" width="300" alt="CTF's"></a>
 <p></p>
 </div>
                                                                                       
