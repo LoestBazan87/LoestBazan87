@@ -71,7 +71,7 @@
 <td width="50%">
 <h3 align="center">The Hackers Labs CTF's</h3>
 <div align="center">
-<a href="https://github.com/LoestBazan87/Writeups/blob/main/TheHackerLabs/microchof.md" target="_blank"><img src="https://github.com/user-attachments/assets/8b4b5d8d-a8c7-4c5e-8066-652f94858927" width="200" alt="CTF's"></a>
+<a href="https://github.com/LoestBazan87/Writeups/blob/main/TheHackerLabs/microchof.md" target="_blank"><img src="https://github.com/user-attachments/assets/8b4b5d8d-a8c7-4c5e-8066-652f94858927" width="150" alt="CTF's"></a>
 <p></p>
 </div>
                                                                                       
